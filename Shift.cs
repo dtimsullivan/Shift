@@ -16,8 +16,9 @@ namespace Shift
  ____) || |  | | _| |_ | |        | |    ________
 |_____/ |_|  |_||_____||_|        |_|   |________|                                                                       
 
-This program is built for use with BluePrint GO services and Metaswitch.
-Use a prebuilt CSV file and convert it to a file to be used with Polycom expansion modules.
+
+Converts a CSV file to an import file for Polycom Sidecars in the Metaswitch VVX Endpoint Pack.
+
 The output file will be saved to the user's desktop.
 
 WARNING: This program assumes you have a header in your CSV file. The first line will be ignored!
