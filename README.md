@@ -6,7 +6,7 @@ Metaswitch uses what they call an "Endpoint Pack" for building configurations fo
 
 ## How to Use
 ### Compatible Devices
-This application supports the Polycom VVX 301, 311, 401, 411, 501, and 601. For the Sidecars (or "Expansion Module") you can choose between the [Paper](https://www.polycom.com/content/dam/polycom/common/documents/data-sheets/vvx-expansion-module-color-ds-enus.pdf) and the [Color](https://www.polycom.com/content/dam/polycom/common/documents/data-sheets/vvx-expansion-module-color-ds-enus.pdf) models of the Sidecar.
+This application supports the Polycom VVX 301, 311, 401, 411, 501, and 601. For the Sidecars (or "Expansion Module") you can choose between the [Paper](https://www.polycom.com/content/dam/polycom/common/documents/data-sheets/vvx-expansion-module-paper-ds-enus.pdf) and the [Color](https://www.polycom.com/content/dam/polycom/common/documents/data-sheets/vvx-expansion-module-color-ds-enus.pdf) models of the Sidecar.
 
 ### Line States
 You will have the choice between setting the line as a Speed Dial (SD) or Enhanced Monitored Extension (EME).
